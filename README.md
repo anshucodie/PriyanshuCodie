@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PriyanshuCodie
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning coding
-- 📫 Reach me at @itss_priyanshu on Twitter
+- 👋 Hi, I’m Priyanshu
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently exploring all the spaces in Computer Science 
+- 📫 Reach me at @anshucodes on Twitter, @Priyanshu Maurya on linkedin
 
 <!---
 PriyanshuCodie/PriyanshuCodie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
